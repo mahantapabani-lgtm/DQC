@@ -130,7 +130,7 @@ Where:
 
 ### 🔹 Resource Allocation Efficiency
 
-![Allocation](![Uploading fig5_resource_alloc.png…]()
+![Allocation](<img width="1615" height="616" alt="fig5_resource_alloc" src="https://github.com/user-attachments/assets/a33e8421-e047-4412-951e-f1a8af1d2192" />
 )
 
 ### 🔹 Social Welfare Scaling
