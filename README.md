@@ -144,7 +144,6 @@ Where:
 )
 
 ---
-
 ### 📊 Result Summary Table
 
 | Algorithm | Convergence Speed | Iterations | Social Welfare     | Fairness | Noise Robustness |
