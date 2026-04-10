@@ -232,7 +232,6 @@ Quantum game theory DQC obj1.ipynb
 
 * Quantum Cloud Computing
 * Multi-user Quantum Systems
-* Quantum Network Scheduling
 * Resource Optimization in NISQ devices
 
 ---
