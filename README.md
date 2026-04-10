@@ -46,10 +46,10 @@ Quantum Resource Allocation, Distributed Quantum Computing, Game Theory, Nash Eq
 * Design of **quantum-aware utility functions** incorporating fidelity, decoherence, and entanglement cost
 * Development and comparison of:
 
-  * Quantum Best Response Dynamics (QBRD)
-  * Iterative Convergence with Equilibrium Dynamics (ICED)
-  * Classical Nash-Based Algorithm (CNBA)
-  * Hybrid Quantum-Classical Approach (HQCA)
+  *  Quantum Best Response Dynamics (QBRD)
+  * Incentive-Compatible Entanglement Distribution (ICED)
+  * Cooperative Nash Bargaining Allocation (CNBA)
+  * Hybrid Quantum--Classical Allocation (HQCA)
 * Demonstration of:
 
   * **2–6× convergence speedup**
@@ -239,10 +239,10 @@ Quantum game theory DQC obj1.ipynb
 
 ## 🔮 Future Work
 
-* Deployment on real quantum hardware (IBM Quantum, IonQ)
-* Integration with reinforcement learning
-* Multi-objective optimization (latency, fidelity, energy)
-* Extension to quantum internet architectures
+*Design incentive-compatible and strategy-proof mechanisms to ensure truthful user participation and efficient resource allocation under quantum system constraints.
+*Develop fault-tolerant and consensus-aware protocols to enable reliable coordination among distributed quantum nodes in the presence of noise, decoherence, and *communication failures.
+*Propose a hybrid quantum–classical multi-agent framework to support scalable and adaptive decision-making using multi-agent systems and learning-based approaches.
+Integrate these components into a unified framework for robust, efficient, and scalable resource management in distributed quantum computing environments.
 
 ---
 
