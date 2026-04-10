@@ -126,7 +126,6 @@ Where:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/163a980f-dca2-4907-ba2f-7c7348903478" width="48%" />
-  <img src="https://github.com/user-attachments/assets/8c4aff28-8a0d-406f-b2fc-31d72cea0cfd" width="48%" />
 </p>
 
 ---
