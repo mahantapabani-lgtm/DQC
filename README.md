@@ -124,19 +124,24 @@ Where:
 
 ### 🔹 Convergence Performance
 
-![Convergence](figures/fig3_convergence.png)
+![Convergence](<img width="1615" height="616" alt="fig5_resource_alloc" src="https://github.com/user-attachments/assets/8c4aff28-8a0d-406f-b2fc-31d72cea0cfd" />
+<img width="1035" height="660" alt="fig3_convergence" src="https://github.com/user-attachments/assets/163a980f-dca2-4907-ba2f-7c7348903478" />
+)
 
 ### 🔹 Resource Allocation Efficiency
 
-![Allocation](figures/fig5_resource_alloc.png)
+![Allocation](![Uploading fig5_resource_alloc.png…]()
+)
 
 ### 🔹 Social Welfare Scaling
 
-![Welfare](figures/fig10_social_welfare.png)
+![Welfare](<img width="1034" height="660" alt="fig10_social_welfare" src="https://github.com/user-attachments/assets/d0e66f99-3c53-46e3-94d6-62fee4710e9e" />
+)
 
 ### 🔹 Noise Robustness
 
-![Noise](figures/fig11_noise_robustness.png)
+![Noise](<img width="1034" height="660" alt="fig11_noise_robustness" src="https://github.com/user-attachments/assets/12220ac9-7067-4f13-a9d1-9a04c86fe187" />
+)
 
 ---
 
